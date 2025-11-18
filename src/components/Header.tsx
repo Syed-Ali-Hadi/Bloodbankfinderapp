@@ -9,7 +9,7 @@ import {
   SheetTrigger,
 } from './ui/sheet';
 
-import logo from '..asset/536a7fd03fa76df48adf91b3a163115b6684cc7c.png';
+import img from 'figma:asset/536a7fd03fa76df48adf91b3a163115b6684cc7c.png';
 
 interface HeaderProps {
   currentPage: string;
@@ -52,7 +52,7 @@ export function Header({ currentPage, onNavigate }: HeaderProps) {
             onClick={() => handleNavClick('home')}
           >
             <div className="bg-white p-2 rounded">
-              <img src={logo} alt="Talash-e-Blood" className="h-17 w-auto" />
+              <img src={img} alt="Talash-e-Blood" className="h-16 w-auto" />
             </div>
             <div className="hidden sm:block">
               <h1 className="text-lg">Talash-e-Blood</h1>
