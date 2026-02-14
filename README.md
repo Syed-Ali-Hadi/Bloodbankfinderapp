@@ -1,7 +1,7 @@
 
   # Blood Bank Finder App
 
-  This is a code bundle for Blood Bank Finder App. The original project is available at https://www.figma.com/design/4S65UBn5RoLmutossHE9tF/Blood-Bank-Finder-App.
+  This is a code bundle for Blood Bank Finder App. The original project is available at https://talash-e-blood-app.netlify.app/
 
   ## Running the code
 
